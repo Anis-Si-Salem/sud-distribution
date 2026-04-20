@@ -5,9 +5,9 @@
   "file": "Red_Calc_1.0.1.exe",
   "file_source": "https://anis-si-salem.github.io/sud-distribution/Red_1.0.1.pkg",
   "file_hash": "1d242691014012ceb2efbb881203f0c6de231c7d6546692df8b22e0832fc5141",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAR5thSuN6cELe8eaQCbmixq4Fm/pC/s3IynUkSVPPFFk=\n-----END PUBLIC KEY-----",
+  "public_key": "QBHpCnUjHUGn1VUzxCWDnYir+iWjpupjakzQcQFRC9g=",
   "update_urls": [
     "https://anis-si-salem.github.io/sud-distribution/manifest_1.0.1.json"
   ],
-  "signature": "cc9e5658f665422f4dd12cb37a2a63286589d1d13e16c6fe13e736064faa02b6fa83e5372ae53d2a2b669f9926d1d3d4933b294528616813861b1dbafd015d0d"
+  "signature": "FmYBuLNU9vrIZYv3gxPQbEZi0BoEF+Ms794Ns1CY4t65fzDdEjj6WPDbgO6sAWKVl1Fcm/WugWJxV89xLuk7Dg=="
 }

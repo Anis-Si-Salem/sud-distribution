@@ -5,9 +5,9 @@
   "file": "Green_Calc_1.0.0.exe",
   "file_source": "https://anis-si-salem.github.io/sud-distribution/Green_1.0.0.pkg",
   "file_hash": "4fdd267ba115fadf8ecc019ac11c2b924c2a40673800c0a805db2145d89fae89",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEATanwHIaWxbhRIgiCebIe5UBWKFYH2yOBNXyl+j5ipxk=\n-----END PUBLIC KEY-----",
+  "public_key": "u5JCqpw9z7X3XpzXEfnn7f6+sKzGqQeqw4DtWPTc8aI=",
   "update_urls": [
     "https://anis-si-salem.github.io/sud-distribution/manifest_1.0.1.json"
   ],
-  "signature": "e820f41da25df4e794173231edbc2f919dc7be0165b63330622dbc2c51f2a6a2ed066d4b006c6b70259e25495522a4d046cdfcfad8005f20c7e2a0fd9927ce00"
+  "signature": "t3axNOl1Gy+VqMQgUXP0/yvSvmqdyfeJlk7s0W0HIAtPBsiY8xmCVnjbsHmWKt51d9JaLcK0MpRUYC6vVpD0Dg=="
 }
