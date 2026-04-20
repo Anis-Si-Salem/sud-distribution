@@ -1,0 +1,13 @@
+{
+  "app_id": "demo.calc",
+  "app_name": "Modern Calculator",
+  "version": "1.0.1",
+  "file": "Red_Calc_1.0.1.exe",
+  "file_source": "https://anis-si-salem.github.io/sud-distribution/Red_1.0.1.pkg",
+  "file_hash": "1d242691014012ceb2efbb881203f0c6de231c7d6546692df8b22e0832fc5141",
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAfRwVR16IRiu6s3eMGBMYpTI6hU75Nhlli9gmRh+8AME=\n-----END PUBLIC KEY-----\n",
+  "update_urls": [
+    "https://anis-si-salem.github.io/sud-distribution/manifest_1.0.1.json"
+  ],
+  "signature": "036c02a3d657779fb62487b80d50030b5ae0b8c526636c64558d8c1fc040954ab46058595e7fdb6cc8283f8325ffec280162542f8c02c2819aa6c90cf5c8f901"
+}
