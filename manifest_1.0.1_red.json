@@ -3,11 +3,11 @@
   "app_name": "Modern Calculator",
   "version": "1.0.1",
   "file": "Red_Calc_1.0.1.exe",
-  "file_source": "https://raw.githubusercontent.com/Anis-Si-Salem/sud-distribution/main//Red_1.0.1.pkg",
+  "file_source": "https://raw.githubusercontent.com/Anis-Si-Salem/sud-distribution/main/Red_1.0.1.pkg",
   "file_hash": "1d242691014012ceb2efbb881203f0c6de231c7d6546692df8b22e0832fc5141",
-  "public_key": "iBuZ4fu2EcdiDDXABIkfKmrIJ9sqEIQvLISGYNSDXgA=",
+  "public_key": "wQWE2VdjUZeGWRUCAwWr42OGiHx4xePcxS2FG5htleE=",
   "update_urls": [
-    "https://raw.githubusercontent.com/Anis-Si-Salem/sud-distribution/main//manifest_1.0.1.json"
+    "https://raw.githubusercontent.com/Anis-Si-Salem/sud-distribution/main/manifest_1.0.1.json"
   ],
-  "signature": "EZYOQo3gihLdjHXlFKZ3QugUnGIKa45jple0qLxmWTXlWyYUq2+NoBsdqdSRzwfL/i6GCRbVbmrMBLTrIfPHAg=="
+  "signature": "Eb4vrYn6D65S34r3vDGNT2K2yVO98Sjo4lTZreL2axBvHV3bKtZgcIb9JTewgPD1peeq0NEPkIsd6IuiZEeTDw=="
 }

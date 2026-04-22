@@ -3,11 +3,11 @@
   "app_name": "Modern Calculator",
   "version": "1.0.0",
   "file": "Green_Calc_1.0.0.exe",
-  "file_source": "https://raw.githubusercontent.com/Anis-Si-Salem/sud-distribution/main//Green_1.0.0.pkg",
+  "file_source": "https://raw.githubusercontent.com/Anis-Si-Salem/sud-distribution/main/Green_1.0.0.pkg",
   "file_hash": "4fdd267ba115fadf8ecc019ac11c2b924c2a40673800c0a805db2145d89fae89",
-  "public_key": "z0aLPeco1mL3jCRYbn/h6+dslrcOuUsiD1gO4Gu/Xas=",
+  "public_key": "rxe2QgQG2KDEH2zW3R0EkmE1O0blZ9qSRUHEzp0v1r8=",
   "update_urls": [
-    "https://raw.githubusercontent.com/Anis-Si-Salem/sud-distribution/main//manifest_1.0.1.json"
+    "https://raw.githubusercontent.com/Anis-Si-Salem/sud-distribution/main/manifest_1.0.1.json"
   ],
-  "signature": "GBUxLQO4kdmOTCN4Uctk4Q5hh2i1cK4VaWYSMwMRNogjBd125Z7m/heVB+svUAS7Eikr/N+sE8BqgvPat5+jDQ=="
+  "signature": "5nhzDED+OnL8HAldU0GHqYCZWourznBXwo2Mim3GUxhhtce9YKKS6xH6CpMFkU1AD4hLzUafYTRF8lLL/S3YAw=="
 }
